@@ -3,7 +3,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'My Site',
+  title: 'MooPay Documentation',
   tagline: 'Dinosaurs are cool',
   url: 'https://moopay.github.io/',
   baseUrl: '/docs/',
@@ -17,14 +17,14 @@ module.exports = {
       title: 'MooPay documentation',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/moo.png',
       },
       items: [
         {
           type: 'doc',
-          docId: 'intro',
+          docId: 'abstract',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Documentation',
         },
  //       {to: '/blog', label: 'Blog', position: 'left'},
         {
@@ -41,8 +41,8 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: 'Documentation',
+              to: '/docs/abstract',
             },
           ],
         },
