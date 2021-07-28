@@ -3,10 +3,10 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'MooPay Documentation',
+  title: 'MooPay Docs',
   tagline: 'Dinosaurs are cool',
-  url: 'https://moopay.github.io/',
-  baseUrl: '/docs/',
+  url: 'https://paper.moopay.live/',
+  baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -14,18 +14,13 @@ module.exports = {
   projectName: 'docs', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'MooPay documentation',
+      title: 'MooPay Whitepaper',
       logo: {
         alt: 'My Site Logo',
         src: 'img/moo.png',
       },
       items: [
-        {
-          type: 'doc',
-          docId: 'abstract',
-          position: 'left',
-          label: 'Documentation',
-        },
+  
  //       {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/MooPay',
@@ -41,8 +36,8 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Documentation',
-              to: '/docs/abstract',
+              label: 'Whitepaper',
+              to: '/',
             },
           ],
         },
