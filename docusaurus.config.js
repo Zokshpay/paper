@@ -3,27 +3,27 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'MooPay WhitePaper',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://paper.moopay.live/',
+  title: 'Zokshpay WhitePaper',
+  tagline: 'Crypto payments done right',
+  url: 'https://paper.zoksh.com/',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'MooPay', // Usually your GitHub org/user name.
+  organizationName: 'ZokshPay', // Usually your GitHub org/user name.
   projectName: 'paper', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'MooPay Whitepaper',
+      title: 'Zoksh Whitepaper',
       logo: {
-        alt: 'MooPay Logo',
-        src: 'img/moo.png',
+        alt: 'Zokshpay Logo',
+        src: 'img/zoksh.png',
       },
       items: [
   
  //       {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/MooPay',
+          href: 'https://github.com/Zokshpay',
           label: 'GitHub',
           position: 'right',
         },
@@ -46,15 +46,15 @@ module.exports = {
           items: [
             {
               label: 'Linkedin',
-              href: 'https://www.linkedin.com/company/moopay',
+              href: 'https://www.linkedin.com/company/zokshpay',
             },
             {
               label: 'Discord',
-              href: '#',
+              href: 'https://discord.gg/EkQRsts4XH',
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/moopayments',
+              href: 'https://twitter.com/zokshpay',
             },
           ],
         },
@@ -67,12 +67,12 @@ module.exports = {
          //   },
             {
               label: 'GitHub',
-              href: 'https://github.com/MooPay',
+              href: 'https://github.com/Zokshpay',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} MooPay`,
+      copyright: `Copyright © ${new Date().getFullYear()} Zokshpay`,
     },
     prism: {
       theme: lightCodeTheme,
