@@ -2,7 +2,7 @@
 sidebar_position: 10
 ---
 
-# MooPay Roadmap
+# ZokshPay Roadmap
 
 ---
 
@@ -25,6 +25,6 @@ sidebar_position: 10
 ## Q1, 2022
 - Supporting 3 major chains
 
-- MooPay Swap Testnet
+- ZokshPay Swap Testnet
 
 - More Dashboard Features
