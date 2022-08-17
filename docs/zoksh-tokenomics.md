@@ -2,14 +2,14 @@
 sidebar_position: 8
 ---
 
-# MOO Tokenomics and Emission
+# Zoksh Tokenomics and Emission
 ---
 
-The MooPay Token (MOO) is the fuel for the MooPay ecosystem of products and services. It is also its native cryptocurrency. The token economics have been constructed in such a way that as the network is used, the overall supply of tokens reduces over time.
+The ZokshPay Token (Zoksh) is the fuel for the ZokshPay ecosystem of products and services. It is also its native cryptocurrency. The token economics have been constructed in such a way that as the network is used, the overall supply of tokens reduces over time.
 
-50% of all MOO tokens will be burnt over time, as there is more network usage and fee collection.
+50% of all Zoksh tokens will be burnt over time, as there is more network usage and fee collection.
 
-Moo Tokenomics
+Zoksh Tokenomics
 Total Tokens: 100M
 
 
